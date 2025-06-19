@@ -1,2 +1,2 @@
-Project URL: https://hitesh1503.github.io/Custom-dropdown/
+https://hitesh1503.github.io/Custom-dropdown/
 
